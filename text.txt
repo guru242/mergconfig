@@ -1,4 +1,2 @@
 
 city:mumbai
-=======
-city:none
